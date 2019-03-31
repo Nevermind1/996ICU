@@ -1,229 +1,300 @@
-时间: 2019-03-30_11:24:08
+时间: 2019-03-31_15:49:36
 点赞数       贡献者                                公司名称
- 1071      LinXueyuanStdio          京东（假装置顶：建议评论加上部门、省区、工资范围，越详细越好）
- 615       llccing                  有赞                  
- 534       yaozhewei                阿里                  
- 386       EscapeFromCoding         字节跳动（我司大小周大家都知道了，更烦人的是早上十点上班晚上十点下班，到家差不多就十一点了。）
- 319       lemonahmas               华为终端部门（长期加班 每周一次通宵） 
- 220       Tonyee                   苏宁（无偿加班到八九点 绩效考核不看你工作的成果 只关心加班时长，而且加班少要被优化……）
- 203       LinXueyuanStdio          完美世界 经常加班到三四点 无加班费（DOTA2服务器总崩... 你们加班咋加的....）
- 201       zzp0753                  并夕夕                 
- 115       yangyuantianming         小米（根据评论：讲真 没觉着加班 不知道为什么名次会排在ov前面）
- 98        intro-tan                腾讯（一言难尽，看评论吧）       
- 94        songjiayu                Icourt 新橙科技（这个公司996业界还算知名）
- 90        bluesmi                  亚信科技（根据评论 1.出差，加班，没有钱 2.  加班确实比较多，但并没有制度上要求996，平均下来985）
- 81        yanglu1019               猎聘网                 
- 79        ClassmateSlow            海尔                  
- 75        itisyang                 海康威视（新部门996，老部门99大小周，没有加班费，合同上白纸黑字8小时工作制，半个字没提加班）
- 73        Mirsla                   卖客星球                
- 72        lizhichao                58同城                
- 66        LiuChen2015              武汉氪细胞（面试的时候面试官直接说公司996，问能不能接受，我说没问题，但是不要我）
- 62        int9tristan              饿了么                 
- 51        int9tristan              小红书                 
- 49        a58457432                来伊份（987 ，加班成狗）      
- 46        zx775337791              上海太屋网络科技有限公司（太平洋房屋it部门）
- 46        qiuling2014              广州探迹（舍友探迹，每晚12点是常态） 
- 45        Clownzoo                 云徙科技                
- 42        RanOfXuan                万达信息股份有限公司（加的我都前列腺了）
- 36        GeekStyle                步步高（教育电子, VIVO, OPPO）
- 35        lunarphenix              蝴蝶互动（996不止）         
- 30        MinosIE                  游族                  
- 27        Dreamer53                浪潮                  
- 24        Lanfice                  CVTE                
- 24        rangerzy                 科大讯飞                
- 24        HaruHappy                四方伟业                
- 23        int9tristan              B站                  
- 22        lilthree                 蜻蜓FM                
- 22        Lanfice                  多益                  
- 21        seven7goddess            深信服                 
- 20        niejunhao                美团点评                
- 20        yonyouchanjet            用友集团畅捷通公司           
- 19        weizheng92               百度                  
- 18        jinsen47                 DJI                 
- 17        sd19836311               南京t3出行              
- 17        dzj0352                  井通科技                
- 17        civodaxahe01             膜法指南                
- 17        phqvince                 三七互娱？？？             
- 17        watermelo2               浙江大華                
- 16        pop1234o                 好未来                 
- 16        Peakchen                 52西游                
- 15        a66245753                武汉360               
- 15        apollochen123            欢聚时代                
- 15        WenQiXu                  北京同仁堂健康药业股份有限公司     
- 15        WenQiXu                  北京同仁堂健康药业股份有限公司     
- 14        hcy226                   商汤科技                
- 14        BusyDayByDay             Hand                
- 13        jiaoxuebing2014          平安不动产（信息科技部）        
- 13        int9tristan              携程                  
- 12        virtualhu                心动网络                
- 12        anti996                  像素软件                
- 12        Notzuonotdied            依图科技                
- 12        XuYuanzhe                水滴互助                
- 12        luck28                   传统制造业               
+ 1167      LinXueyuanStdio          京东（假装置顶：投票正常能用。查看评论请禁用JavaScript）
+ 667       llccing                  有赞                  
+ 598       yaozhewei                阿里                  
+ 435       EscapeFromCoding         字节跳动（我司大小周大家都知道了，更烦人的是早上十点上班晚上十点下班，到家差不多就十一点了。）
+ 351       lemonahmas               华为终端部门（长期加班 每周一次通宵） 
+ 245       Tonyee                   苏宁（无偿加班到八九点 绩效考核不看你工作的成果 只关心加班时长，而且加班少要被优化……）
+ 224       zzp0753                  并夕夕                 
+ 216       LinXueyuanStdio          完美世界 经常加班到三四点 无加班费（DOTA2服务器总崩... 你们加班咋加的....）
+ 128       yangyuantianming         小米（根据评论：讲真 没觉着加班 不知道为什么名次会排在ov前面）
+ 118       intro-tan                腾讯（一言难尽，看评论吧）       
+ 103       songjiayu                Icourt 新橙科技（这个公司996业界还算知名）
+ 97        bluesmi                  亚信科技（根据评论 1.出差，加班，没有钱 2.  加班确实比较多，但并没有制度上要求996，平均下来985）
+ 92        itisyang                 海康威视（新部门996，老部门99大小周，没有加班费，合同上白纸黑字8小时工作制，半个字没提加班）
+ 86        yanglu1019               猎聘网                 
+ 81        ClassmateSlow            海尔                  
+ 77        lizhichao                58同城                
+ 75        Mirsla                   卖客星球                
+ 72        LiuChen2015              武汉氪细胞（面试的时候面试官直接说公司996，问能不能接受，我说没问题，但是不要我）
+ 68        int9tristan              饿了么                 
+ 55        int9tristan              小红书                 
+ 52        a58457432                来伊份（987 ，加班成狗）      
+ 50        Clownzoo                 云徙科技                
+ 49        RanOfXuan                万达信息股份有限公司（加的我都前列腺了）
+ 47        qiuling2014              广州探迹（舍友探迹，每晚12点是常态） 
+ 47        zx775337791              米斯特安全               
+ 41        GeekStyle                步步高（教育电子, VIVO, OPPO）
+ 40        lunarphenix              蝴蝶互动（996不止）         
+ 34        seven7goddess            深信服                 
+ 33        MinosIE                  游族                  
+ 32        Dreamer53                浪潮                  
+ 30        Lanfice                  CVTE                
+ 27        Lanfice                  多益                  
+ 27        rangerzy                 科大讯飞                
+ 26        niejunhao                美团点评                
+ 26        HaruHappy                四方伟业                
+ 25        weizheng92               百度                  
+ 25        int9tristan              B站                  
+ 24        lilthree                 蜻蜓FM（北京一周55小时工作时间，上海57小时，并实行Wi-Fi打卡）
+ 22        yonyouchanjet            用友集团畅捷通公司           
+ 20        jinsen47                 DJI                 
+ 19        watermelo2               浙江大華                
+ 19        phqvince                 三七互娱？？？             
+ 19        pop1234o                 好未来                 
+ 18        sd19836311               南京t3出行              
+ 18        Notzuonotdied            依图科技                
+ 18        dzj0352                  井通科技                
+ 18        civodaxahe01             膜法指南                
+ 18        jiaochanglong            作业帮                 
+ 17        apollochen123            欢聚时代                
+ 17        WenQiXu                  北京同仁堂健康药业股份有限公司     
+ 17        WenQiXu                  北京同仁堂健康药业股份有限公司     
+ 16        int9tristan              携程                  
+ 16        a66245753                武汉360               
+ 16        hcy226                   商汤科技                
+ 15        BusyDayByDay             Hand                
+ 14        jiaoxuebing2014          平安不动产（信息科技部）        
+ 14        XuYuanzhe                水滴互助                
+ 13        Dead-Rabbit              杭州涂鸦科技              
+ 13        luck28                   传统制造业               
+ 13        virtualhu                心动网络                
+ 13        Teemo100                 趣头条--悠趣直播，10117     
+ 13        anti996                  像素软件                
+ 13        linkin-zhu               趣头条—米读小说            
+ 12        xindoo                   美团                  
+ 12        cokabug                  便利蜂                 
+ 11        ElviraZ                  成都趣乐多-西游网           
+ 11        qqert12345               网易大部分游戏项目           
  11        ITnotgirl                北京锐安科技              
- 11        Teemo100                 趣头条--悠趣直播，10117     
- 10        linkin-zhu               趣头条—米读小说            
- 10        ElviraZ                  成都趣乐多-西游网           
- 10        cokabug                  便利蜂                 
- 10        int9tristan              喜马拉雅FM              
- 10        Dead-Rabbit              杭州涂鸦科技              
- 9         kellymyp                 哔哩哔哩                
- 9         lybrooks                 天源迪科                
- 9         15527854695              whfy                
- 9         xindoo                   美团                  
- 9         pinkeman360              360金融，10，10，6加班，持续2个月了
- 9         535064094                中润国力集团有限公司          
- 9         mada365                  BOSS直聘——马老板说了995.5  
- 8         Nelsontop                威富通科技有限公司           
+ 11        int9tristan              喜马拉雅FM              
+ 11        mada365                  BOSS直聘——马老板说了995.5  
+ 11        pinkeman360              360金融，10，10，6加班，持续2个月了
+ 11        605435218                烽火通信                
+ 11        JaynieZheng              同花顺                 
+ 10        lybrooks                 天源迪科                
+ 10        zhangao0086              厦门神州优车              
+ 10        lybrooks                 天源迪科                
+ 10        zhangao0086              厦门神州优车              
+ 10        535064094                中润国力集团有限公司          
+ 10        15527854695              whfy                
+ 9         Nelsontop                威富通科技有限公司           
+ 9         lusenkong                浙江宇视科技              
+ 9         johncolezhang            斤谍                  
+ 9         vinohsueh                百度                  
+ 9         no996noicu               用友 Yonyou           
+ 9         qqert12345               网易考拉常年9点半之后下班       
+ 8         yuchaoWu                 BIGO                
  8         TankLo520                杭州网聚海数数据科技有限公司      
- 8         JaynieZheng              同花顺                 
  8         cobnut                   福建网龙                
- 8         605435218                烽火通信                
- 8         johncolezhang            斤谍                  
- 8         no996noicu               用友 Yonyou           
+ 8         JameHou                  兴盛优选                
+ 8         Notzuonotdied            Bigo                
  8         WangZhengWeis                                
  8         ColdPlayIm               VIPKID              
+ 8         yuyang807                玖富                  
+ 7         910515542                成信大软件工程专业           
  7         shaka0919                旷视科技                
- 7         yuchaoWu                 BIGO                
- 7         qqert12345               网易大部分游戏项目           
- 7         JameHou                  兴盛优选                
- 7         vinohsueh                百度                  
- 7         chao4693940              萌果科技                
- 7         lwz22psp                 运去哪                 
- 7         developNote              国机二院                
+ 7         longshenjue              瓜子二手车               
  7         KellyLei                 浩鲸科技                
- 7         hetachen                 奖多多                 
- 7         hit000021                杭州 婚礼纪              
- 7         yuyang807                玖富                  
  7         7hens                    美的                  
- 6         910515542                成信大软件工程专业           
- 6         Xuejingyuan              国网湖南信通公司            
- 6         1104797544               haojingkeji         
- 6         jaysunxiao               三七互娱                
- 6         Xuejingyuan              国网湖南信通公司            
- 6         910515542                成信大软件工程专业           
- 6         1104797544               haojingkeji         
- 6         Notzuonotdied            Bigo                
- 6         jaysunxiao               三七互娱                
- 6         lusenkong                浙江宇视科技              
+ 7         jaysunxiao               三七互娱                
+ 7         1104797544               haojingkeji         
+ 7         KellyLei                 浩鲸科技                
+ 7         liuchengyong             北京温暖烛光              
+ 7         shaka0919                旷视科技                
+ 7         1104797544               haojingkeji         
+ 7         jialiangxu               中兴                  
+ 7         smileisme                斗米                  
+ 7         longshenjue              瓜子二手车               
+ 7         hit000021                杭州 婚礼纪              
+ 6         janelletrump             淘集集                 
  6         lalalalalalalala123456   新网银行                
- 6         liuchengyong             北京温暖烛光              
- 5         longshenjue              瓜子二手车               
- 5         jialiangxu               中兴                  
- 5         smileisme                斗米                  
- 5         chenqingru               北京永航科技              
- 5         robin-go                 北京容联云通讯             
+ 6         Xuejingyuan              国网湖南信通公司            
  5         xiaolong1127             当当                  
+ 5         robin-go                 北京容联云通讯             
+ 5         SteelCabbage             软通动力iSoftStone（菊花厂外包）
+ 5         chenqingru               北京永航科技              
+ 5         derek-zr                 007的研究生和博士  廉价劳动力，剥削链底层
  5         billijoe                 开心人                 
+ 5         zhaoyugh                 轻松筹                 
  5         yamideh                  上海欢乐互娱（9.5 10 6 又叫江游）
+ 4         coderbean2020            杭州*恒信息技术公司(周六名曰“学习日”，实为加班)
+ 4         Windywind                华为Cloud BU          
+ 4         sober-wang               点我达                 
+ 4         humengqiao               深圳时空易联              
  4         auweitao                 中科软                 
- 4         HongjianHandsom          一起作业                
- 4         davidkanou               BYD                 
- 4         magang0425               上海久耶供应链管理有限公司       
- 4         derek-zr                 007的研究生和博士  廉价劳动力，剥削链底层
- 4         songtangjietinklabs      斗鱼                  
- 4         humengqiao               深圳时空易联              
- 4         zhaoyugh                 轻松筹                 
- 4         developNote              掌贝                  
- 4         magang0425               上海久耶供应链管理有限公司       
- 4         derek-zr                 007的研究生和博士  廉价劳动力，剥削链底层
- 4         zhaoyugh                 轻松筹                 
+ 4         99887766554433           小黑鱼                 
+ 4         SheldonFei               上海拜聚                
+ 4         bubble93                 中软国际                
+ 4         caomeibuaichibaicai      歪脸网                 
+ 4         99887766554433           小黑鱼                 
  4         Shalltry                 传音控股                
+ 4         magang0425               上海久耶供应链管理有限公司       
+ 4         HongjianHandsom          一起作业                
+ 4         coderbean2020            杭州*恒信息技术公司(周六名曰“学习日”，实为加班)
  4         humengqiao               深圳时空易联              
- 3         yinhutjfox               gishere 云南这里信息技术有限公司  我们一起在公司迎接朝阳 一起相依为命
+ 4         Windywind                华为Cloud BU          
+ 4         saschapojot              海康威视                
+ 3         xmstu                    团贷网                 
  3         minhao1995               上海优唯市场研究咨询有限公司      
- 3         chansonzhang             西安华为技术有限公司          
- 3         huairoucoder             天眼查                 
- 3         tjuxiaoyi                华为北研所网络产品线          
- 3         bnlxl                    万店掌                 
- 3         Mr573                    蓝思科技                
- 3         yamideh                  重复了 此行移除            
+ 3         BUSBLACK                 中科软                 
  3         857092                   Opera               
+ 3         Nick-Lu                  PingPong (杭州呯嘭智能技术有限公司)
+ 3         NickZhangAlong           群硕软件                
+ 3         ty850454                 房多多                 
+ 3         davidkanou               BYD                 
+ 3         Albertontheway           浪潮                  
  3         yiranmiao                智造链                 
+ 3         zhanniuniu               北京科蓝软件系统股份有限公司      
+ 3         RayHuangCN               腾讯云                 
+ 3         Mr573                    蓝思科技                
+ 3         jackee-yz                寻医问药网               
+ 3         huairoucoder             天眼查                 
+ 3         yiranmiao                智造链                 
+ 3         davidkanou               BYD                 
+ 3         chansonzhang             西安华为技术有限公司          
+ 3         zhanniuniu               北京科蓝软件系统股份有限公司      
+ 3         li844327426              觅上（北京）科技有限公司        
+ 3         RayHuangCN               腾讯云                 
  3         yh673025667              Momenta             
  3         jackee-yz                寻医问药网               
- 3         RayHuangCN               腾讯云                 
- 3         Windywind                华为Cloud BU          
- 3         ty850454                 房多多                 
- 3         zhanniuniu               北京科蓝软件系统股份有限公司      
- 3         mccree2                  杭州微一案               
- 3         SheldonFei               上海拜聚                
- 3         li844327426              觅上（北京）科技有限公司        
- 3         YouWillNeverChange       北京储易智慧科技有限公司        
- 3         minluoxu                 茄子快传                
- 3         mccree2                  杭州微一案               
+ 3         Mr573                    蓝思科技                
+ 3         developNote              上海益民食品厂             
+ 3         zhouyuqingaic            DepthsData          
+ 3         yurfly                   烽火通信                
+ 3         amarky                   微医                  
+ 3         xxxwei                   杭州网易                
+ 3         forbeyond                华为传送网部门             
+ 3         MrSevenCheng             初见科技                
  3         yinhutjfox               gishere 云南这里信息技术有限公司  我们一起在公司迎接朝阳 一起相依为命
- 3         yh673025667              Momenta             
- 3         yamideh                  重复了 此行移除            
- 2         littlq                   海马玩                 
- 2         Ryuchen                  北京金睛云华科技有限公司        
- 2         zjie-zhang               马蜂窝                 
- 2         JackPaul                 海底捞                 
- 2         lzbah                    焦点教育                
- 2         pencil2014               云来科技                
- 2         bossadmin                广州 臭名昭著的外包(强制996,只有周末加班才算,平时的加班没有任何补休)
- 2         dfbUsbc2578              浙江盛和网络科技有限公司        
- 2         qwelcr2010               贝壳                  
- 2         TencentPonyMa            网易游戏事业部             
- 2         SoftwareTesterWu         网易考拉                
- 2         yangweimin888            南京掌控网络科技有限公司        
- 2         developNote              上海益民食品厂             
- 2         clunique                 启迪国信                
- 2         Lanfice                  4399                
- 2         weizengreal              好未来                 
- 2         huaziHear                去哪儿网                
+ 3         wumohai                  深圳奥术科技              
+ 3         NickZhangAlong           群硕软件                
+ 3         Liiijabn                 大疆                  
+ 3         ShowerLi                 巨人                  
+ 3         ty850454                 房多多                 
+ 2         ElviraZ                  成都天上友嘉              
+ 2         retindErCn               万兴科技                
+ 2         Picaku                   乐视                  
+ 2         LinearLaw                【解决方法】现在点击某一个投票，会直接跳出来一个图片，上面写着QQxxx，什么hacked by xxx
  2         developNote              膜法世家                
- 2         haoyutc                  顺丰                  
- 2         mada365                  中广热点云               
- 2         kanecolin                汽车之家                
- 2         retindErCn               万兴科技                
- 2         ElviraZ                  成都天上友嘉              
- 2         244860210                京东到家                
- 2         LittleFlames             品创时代                
- 2         hongjiasen               jiangsuhx           
- 2         Ryuchen                  北京金睛云华科技有限公司        
- 2         weizengreal              好未来                 
- 2         TencentPonyMa            网易游戏事业部             
- 2         ziven123                 迅实芯                 
- 2         yuyangalan               众泰汽车皮尺部             
- 2         qwelcr2010               贝壳                  
- 2         clunique                 启迪国信                
- 2         yangweimin888            南京掌控网络科技有限公司        
- 2         bubble93                 中软国际                
- 2         zjie-zhang               马蜂窝                 
- 2         a939927870               深圳道通科技有限公司          
- 2         shanrain                 合力亿捷                
- 2         MrLeihe                  北京诵读文化发展有限公司        
- 2         Liiijabn                 大疆                  
- 2         blackkey1                上海闻泰                
- 2         haoyutc                  顺丰                  
- 2         xmstu                    团贷网                 
- 2         bossadmin                广州 臭名昭著的外包(强制996,只有周末加班才算,平时的加班没有任何补休)
- 2         Lanfice                  4399                
- 2         developNote              上海益民食品厂             
- 2         whgm90                   车主邦                 
- 2         retindErCn               万兴科技                
+ 2         BoringGame               北京开天创世科技有限公司        
+ 2         azlanac                  涂游游戏                
  2         a383948039               深圳奥哲网络科技有限公司        
- 2         Lanfice                  4399                
- 2         MrLeihe                  北京诵读文化发展有限公司        
- 2         Liiijabn                 大疆                  
+ 2         whgm90                   车主邦                 
+ 2         dfbUsbc2578              浙江盛和网络科技有限公司        
+ 2         a939927870               深圳道通科技有限公司          
+ 2         mada365                  中广热点云               
+ 2         wangjianlin996icu        东方头条  经常加班到十点以后 周六日加班看老板心情
+ 2         hongjiasen               jiangsuhx           
+ 2         hanzack                  拼多多                 
+ 2         kanecolin                汽车之家                
+ 2         LittleFlames             品创时代                
  2         ElviraZ                  成都天上友嘉              
+ 2         retindErCn               万兴科技                
+ 2         Ryuchen                  北京金睛云华科技有限公司        
+ 2         244860210                京东到家                
  2         zjie-zhang               马蜂窝                 
+ 2         ziyudiexin               擎盾科技                
+ 2         Firef0x                  中软国际                
+ 2         Edwardmark               有云科技 小马哥 早9晚10 996 钱少事多 洗脑 千万别来
+ 2         weizengreal              好未来                 
+ 2         Lanfice                  4399                
+ 2         Edwardmark               有云科技 小马哥 早9晚10 996 钱少事多 洗脑 千万别来
+ 2         weizengreal              好未来                 
+ 2         244860210                京东到家                
+ 2         hjy100200                e修鸽(杭州)             
+ 2         a939927870               深圳道通科技有限公司          
+ 2         retindErCn               万兴科技                
+ 2         qwelcr2010               贝壳                  
+ 2         haoyutc                  顺丰                  
+ 2         shanrain                 合力亿捷                
+ 2         zjie-zhang               马蜂窝                 
+ 2         happywxs                 盘石网盟                
+ 2         Ryuchen                  北京金睛云华科技有限公司        
+ 2         ziven123                 迅实芯                 
+ 2         ElviraZ                  成都天上友嘉              
+ 2         bossadmin                广州 臭名昭著的外包(强制996,只有周末加班才算,平时的加班没有任何补休)
+ 2         yuyangalan               众泰汽车皮尺部             
+ 2         JackPaul                 海底捞                 
+ 2         fengchj10                启迪                  
+ 2         Lanfice                  4399                
+ 2         Powerfulxxr              银联数据中心              
+ 2         pencil2014               云来科技                
+ 2         MrLeihe                  北京诵读文化发展有限公司        
+ 2         ziyudiexin               擎盾科技                
+ 2         WarStomp                 华为，研发部门（996在华为只能算中等强度，忙的通宵很常见）
+ 2         Firef0x                  中软国际                
+ 1         hhsea                    杭州半云科技有限公司          
  1         littlq                   北京海誉动想科技股份有限公司      
+ 1         csc-EricWu               武汉威泰科技              
+ 1         gilbertguan2385          平安科技（深圳）            
+ 1         qetuozm                  尊豪网络9106            
+ 1         plklm                    运满满                 
+ 1         ssslkj123                税友软件                
+ 1         godjiuxutian             江苏慧物数据科技有限公司        
+ 1         LiuGuanXin               普联软件股份有限公司 石油事业部    
+ 1         nicle-lin                优倍快                 
+ 1         Alanlxh                  Rela                
+ 1         huangtingxuan            深圳鑫喆电子科技            
+ 1         john2300                 深圳猜猜城               
+ 1         liudongsir               日本关东金现代             
+ 1         iTaster                  中译语通科技有限公司          
+ 1         wohenxion                深圳市环球易购             
+ 1         Git2Frank                360路由10127          
+ 1         20gg                     杭州斯第姆               
+ 1         qigithub                 火星唐斯任辽科技有限公司        
+ 1         18840851520              南京杰迈视讯              
+ 1         lk112133                 澜极智谷科技              
+ 1         TrainNo110               云鸟                  
+ 1         TencentPonyMa            腾讯互娱                
+ 1         xuxuekai                 Tokeninsight        
+ 1         Axighi                   深圳追一科技有限公司          
+ 1         itongqingbo              来个防注入补丁吧            
+ 1         shaka0919                PWC GTS-IFS(普华永道IT部门)
+ 1         cdxzuid                  成都柠檬云（kucoin）       
+ 1         Eden-Lin                 兴业数字金融服务（上海）股份有限公司  
+ 1         gilbertguan2385          平安科技（深圳）            
+ 1         jackToken                轻轻家教                
+ 1         sgr914                   北京-快陪练              
+ 1         leizhen10000             点我达                 
+ 1         Wong-Charles             科大讯飞                
+ 1         nanxing                  贵阳朗玛                
+ 1         netsman1030              阿里云外包               
+ 1         ssnobin                  多益网络                
+ 1         zhenshengcai             远景能源（远景智能）          
+ 1         skyhuangdan              北京永航科技有限公司          
+ 1         guitaristCat             北京渔塘软件科技有限公司        
+ 1         wuxiashuangji            深圳乐摇摇科技有限公司         
+ 1         fengshenyuan             第一弹 —— 上海           
+ 1         scorscor                 鲜果多                 
+ 1         Nedoloroso               天喻教育                
+ 1         CivilPro                 稻禾信息科技              
+ 1         fandongbo                北京百乘集团              
+ 1         kongwang                 众安                  
+ 1         cofylxiaojue             pu蓝科技               
+ 1         bingoaptar               广州黑胡子游戏开发公司         
+ 1         924950698                高思教育                
+ 1         su9257                   上海火魂                
+ 1         alonecarr                南京坦道信息科技有限公司        
+ 1         lei32323                 上海理想                
+ 1         friendlyhank             广州溜溜云科技有限公司         
+ 1         jickykung                KDC - 深圳市康达兴电子有限公司  
+ 1         makelage                 华为NCE  [906,907]    
+ 1         hoipo                    酷狗                  
+ 1         bowdar                   成都西山居世游 995         
+ 1         kalikai                  深圳朗仁科技              
+ 1         BetaLi                   博智林机器人              
+ 1         LiangHaoXiang            广州百游科技有限公司          
+ 1         mengrayan                安徽双骏智能科技            
  1         lipengtom                格事化                 
- 1         NickZhangAlong           群硕软件                
- 1         Edwardmark               有云科技 小马哥 早9晚10 996 钱少事多 洗脑 千万别来
+ 1         highfei2011              dianp               
  1         zoumin1516               众安国际                
  1         yutiya                   重庆嗨走科技有限公司          
  1         QiangDongxiao            志杰                  
- 1         su9257                   上海火魂                
  1         l1212xiao                一点                  
  1         sorrymeto                浙江蚁加科技              
- 1         gilbertguan2385          平安科技（深圳）            
- 1         924950698                高思教育                
  1         HRC0401                  瑞祥装饰                
- 1         azlanac                  涂游游戏                
- 1         cofylxiaojue             pu蓝科技               
  1         panyuchao                慧安金科                
  1         marchonh                 浪潮                  
  1         kebikekj                 姿美堂                 
@@ -231,122 +302,51 @@
  1         CodeZLei                 乐融集团(原乐视le)         
  1         liuxiaoshuai             山东国子软件股份有限公司        
  1         warnstar                 北京积沙成塔              
- 1         kongwang                 众安                  
- 1         fandongbo                北京百乘集团              
- 1         ziyudiexin               擎盾科技                
- 1         Firef0x                  中软国际                
+ 1         mydada0302               来活捉一下进行注入的贱人 [ 兄弟们，一起来搞一下 ] 
+ 1         thanatosguan             天上人间                
  1         LinXueyuanStdio          上海 汉得 物联网与云事业部      
  1         FuckU996                 360大数据              
  1         lipengtom                武汉格事化信息技术有限公司       
- 1         CivilPro                 稻禾信息科技              
- 1         Nedoloroso               天喻教育                
  1         vuchan                   重庆霏微                
- 1         scorscor                 鲜果多                 
  1         AlexYIN                  海信聚好看               
- 1         wangjianlin996icu        东方头条  经常加班到十点以后 周六日加班看老板心情
- 1         fengshenyuan             第一弹 —— 上海           
  1         jiashuaizhang            东华                  
  1         JackeyZ                  阡陌游戏                
- 1         guitaristCat             北京渔塘软件科技有限公司        
  1         magicLaLa                杭州高街科技              
- 1         billijoe                 北京信息科技大学-智能信息处理研究所  
- 1         JackeyZ                  阡陌游戏                
- 1         NotoriousKnight          微信                  
- 1         fengsy868                搜狗                  
- 1         FantasyZhou              第七大道                
- 1         TencentPonyMa            腾讯互娱                
- 1         ananas-xxj               灵游互娱                
+ 1         ZhzhIn                   平安科技（深圳）            
+ 1         patrickzhe               连尚科技                
  1         winter008                成都西米互动科技有限公司        
- 1         yutiya                   重庆嗨走科技有限公司          
- 1         lei32323                 上海理想                
- 1         LinXueyuanStdio          上海 汉得 物联网与云事业部      
- 1         Duan-fei                 香侬科技                
- 1         magicLaLa                杭州高街科技              
- 1         Quekie                   广州市圣湘琳信息科技有限责任公司    
- 1         LiangHaoXiang            广州百游科技有限公司          
- 1         DaFeng2016               北京思源企通集团            
- 1         kongwang                 众安                  
+ 1         fengsy868                搜狗                  
+ 1         xiongyingjun             杭州会搜科技              
+ 1         cpleo                    长沙泽宝网络有限公司          
+ 1         Eden-Lin                 交通银行总行（位于上海）        
  1         zpczzf                   蓝鸽集团                
- 1         songjiayu                网联清算                
- 1         happywxs                 盘石网盟                
- 1         BetaLi                   博智林机器人              
- 1         littlq                   北京海誉动想科技股份有限公司      
- 1         NickZhangAlong           群硕软件                
- 1         liuxiaoshuai             山东国子软件股份有限公司        
- 1         leizhen10000             点我达                 
- 1         liudongsir               日本关东金现代             
- 1         lcylichenyi              上海思满软件科技            
- 1         lk112133                 澜极智谷科技              
- 1         Git2Frank                360路由10127          
- 1         KaneTing                 OYO(China)          
- 1         Axighi                   深圳追一科技有限公司          
- 1         zhaozhiming              tap4fun(tik实验室)     
- 1         alonecarr                南京坦道信息科技有限公司        
- 1         suncong1024              汉雅星空文化科技有限公司        
- 1         CodeZLei                 乐融集团(原乐视le)         
- 1         18840851520              南京杰迈视讯              
- 1         plklm                    运满满                 
- 1         yehaia1                  近铁国际物流（深圳） ISD部门    
- 1         makelage                 华为NCE  [906,907]    
- 1         cdxzuid                  成都柠檬云（kucoin）       
- 1         l1212xiao                一点                  
- 1         miccuci                  长沙中融汇智              
- 1         macoscoder               上海巨人网络              
+ 1         BinvorWin                方欣科技                
+ 1         tangerwei                平安医疗                
+ 1         voter1990                蚂蚁金服                
+ 1         AndersonLung             浦发银行科技部             
+ 1         Luckydaidai              上海上上德盛集团            
  1         voidmethod               正和岛                 
- 1         sunKit-io                爱换机                 
+ 1         lw1156                   江苏鸿信                
+ 1         xiaohuilam               小站教育                
+ 1         finikes                  江苏有个车               
+ 1         yehaia1                  近铁国际物流（深圳） ISD部门    
+ 1         zhouxuan0941             科达科技                
+ 1         suncong1024              汉雅星空文化科技有限公司        
+ 1         kalikai                  深圳道通科技              
+ 1         FantasyZhou              第七大道                
  1         dice-HS                  美亚柏科                
- 1         roryone                  重庆紫光华智              
- 1         csc-EricWu               武汉威泰科技              
- 1         xuxuekai                 Tokeninsight        
- 1         godjiuxutian             江苏慧物数据科技有限公司        
- 1         ymw520369                路索亚网络               
- 1         Duan-fei                 香侬科技                
+ 1         TencentPonyMa            网易游戏事业部             
+ 1         nanningGitHub            北京融顺网络科技公司（e兼职）     
+ 1         sunKit-io                爱换机                 
+ 1         beastLeo                 税友                  
+ 1         lingyun0129              深圳市朗特伟业科技有限公司       
+ 1         ananas-xxj               灵游互娱                
+ 1         satancp                  给大家推荐一个良心企业，中智关爱通，国资委下面的直属央企，每周965，工作很好
+ 1         liuyuwang2016            Deloitte Consulting 德勤咨询（上海）管理咨询有限公司
+ 1         wesky260643              猎户星空（大小周）           
+ 1         untamedtao               云集                  
+ 1         macoscoder               上海巨人网络              
+ 1         hit000021                杭州婚礼纪               
+ 1         miccuci                  长沙中融汇智              
  1         broscar                  深圳领格网络              
- 1         18840851520              南京杰迈视讯              
  1         lcylichenyi              上海思满软件科技            
- 1         NotoriousKnight          微信                  
- 1         Quekie                   广州市圣湘琳信息科技有限责任公司    
- 1         kuu12                    深圳爱加密科技有限公司         
- 1         qigithub                 火星唐斯任辽科技有限公司        
- 1         venivediveci             北京青云互动科技有限公司        
- 1         20gg                     杭州斯第姆               
- 1         xxxwei                   杭州网易                
- 1         Git2Frank                360路由10127          
- 1         wohenxion                深圳市环球易购             
- 1         DaFeng2016               北京思源企通集团            
- 1         wulisensen               凤凰网                 
- 1         ymw520369                路索亚网络               
- 1         liudongsir               日本关东金现代             
- 1         Nevermind1               盈超科技有限公司            
- 1         DaFeng2016               思源企通集团              
- 1         huangtingxuan            深圳鑫喆电子科技            
- 1         Lsmaxs                   租租车                 
- 1         Alanlxh                  Rela                
- 1         nicle-lin                优倍快                 
- 1         godjiuxutian             江苏慧物数据科技有限公司        
- 1         zhaozhiming              tap4fun(tik实验室)     
- 1         roryone                  重庆紫光华智              
- 1         SherlockRen              一亩田（APP部门，996 美其名倒休，就是耍流氓）
- 1         leesang1990                                  
- 1         18435753200                                  
- 1         SunnyTang                苏州凌志软件股份有限公司        
- 1         ssslkj123                税友软件                
- 1         plklm                    运满满                 
- 1         songjiayu                网联清算                
- 1         FJays                    乐道互动（完美世界子公司）       
- 1         fxyc1                    inspur浪潮            
- 1         jickykung                KDC - 深圳市康达兴电子有限公司  
- 1         csc-EricWu               武汉威泰科技              
- 1         friendlyhank             广州溜溜云科技有限公司         
- 1         makelage                 华为NCE  [906,907]    
- 1         lei32323                 上海理想                
- 1         kalikai                  深圳朗仁科技              
- 1         alonecarr                南京坦道信息科技有限公司        
- 1         BetaLi                   博智林机器人              
- 1         happywxs                 盘石网盟                
- 1         LiangHaoXiang            广州百游科技有限公司          
- 1         wumohai                  深圳奥术科技              
- 1         KaneTing                 OYO(China)          
- 0         zhang20084               EasyAPI             
- 0         windless0530             快手                  
- 0         gongdeyang195            test                
